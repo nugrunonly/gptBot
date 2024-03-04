@@ -1,0 +1,1 @@
+commands = ['!test', '!test2',  '!test3']
